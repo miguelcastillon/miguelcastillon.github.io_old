@@ -1,9 +1,14 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: KU Leuven (Belgium)
+  dates: 09 / 2016 - 07 / 2018
+  qualification: MSc in Mechanical Engineering: Robotics & Mechatronics
+  #quote: >
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    GPA: 78% (Magna cum laude)
+    Coursess: Pattern recognition & image interpretation, Computer vision, Optimization
+    Thesis: Vision-based measurement of modal contributions to reconstruct full-field vibrations
+    - Noise & Vibration research group
+    - Proposed a model-based method to reconstruct structural deformations using Optical Flow
+    - Experimental validation using high-speed, high-resolution cameras and a beam-like structure
