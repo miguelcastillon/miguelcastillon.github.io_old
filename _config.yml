@@ -7,7 +7,7 @@ name: Miguel Castillón
 title: PhD student at University of Girona
 email: mcastillonsanchez@gmail.com
 phone:
-website:
+website: https://orcid.org/0000-0002-2919-4828
 
 # Social links
 twitter_username:
@@ -24,12 +24,12 @@ googleplus_username:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile_cropped.jpg
+about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Miguel
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Publications #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)

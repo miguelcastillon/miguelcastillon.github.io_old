@@ -1,5 +1,15 @@
 # Experience template
 - layout: left
+  company: PhD candidate
+  link:
+  job_title: ViCOROB, Girona (Spain)
+  dates: 01 / 2019 - Present
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    <b>Thesis</b>: Development of a new underwater 3D scanner
+
+- layout: left
   company: Part-time research job
   link:
   job_title: The Kobi Company, Leuven (Belgium)
