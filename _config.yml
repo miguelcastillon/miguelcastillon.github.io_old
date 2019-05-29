@@ -6,8 +6,8 @@ repository: miguelcastillon/miguelcastillon.github.io
 name: Miguel Castillón
 title: PhD student at University of Girona
 email: mcastillonsanchez@gmail.com
-#phone: Your phone number (optional)
-#website: Your website (eg. https://google.com)(optional)
+phone: 
+website: 
 
 # Social links
 twitter_username: jekyllrb
