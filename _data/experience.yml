@@ -1,10 +1,46 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Part-time research job
+  link:
+  job_title: The Kobi Company, Leuven (Belgium)
+  dates: 11 / 2017 - 06 / 2018
+  #quote: >
+   #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Study of different feature-matching strategies on grass patches for the autonomous lawn mower
+    - System identification of the dynamic behaviour of the wheel engines
+
+- layout: left
+  company: Internship in R&D
+  link:
+  job_title: Octinion, Leuven (Belgium)
+  dates: 06 / 2017 - 08 / 2017
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Development of a strawberry classifier based on color for the robotic strawberry picker using Machine Learning
+    - Set up of stereo camera system on the platform prototype
+    - Research of new strategies to find severely occluded strawberries
+
+- layout: left
+  company: "Autonomous Optimal Navigation"
+  link:
+  job_title: Intermodalics, Leuven (Belgium)
+  dates: 02 / 2017 - 06 / 2017
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - University project
+    - Implementation of optimal path planning algorithm for autonomous navigation in warehouse-like environments, including avoidance of dynamic obstacles
+
+- layout: left
+  company: Quality assurance engineer
+  link:
+  job_title: Copo Zaragoza (Spain)
+  dates: 02 / 2016 - 07 / 2016
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Quality control of seat components for automotive industry
+    - Process standardisation, Process control, Customer satisfaction
+    - Stay of two months at Copo Central Europe, Pilsen (Czech Republic)

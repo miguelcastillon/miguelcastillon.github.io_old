@@ -1,14 +1,28 @@
 # Education Template
 - layout: left
-  name: KU Leuven (Belgium)
+  name: "MSc in Mechanical Engineering"
   dates: 09 / 2016 - 07 / 2018
-  qualification: MSc in Mechanical Engineering: Robotics and Mechatronics
+  qualification: KU Leuven (Belgium)
   #quote: >
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    GPA: 78% (Magna cum laude)
-    Coursess: Pattern recognition & image interpretation, Computer vision, Optimization
-    Thesis: Vision-based measurement of modal contributions to reconstruct full-field vibrations
+    <b>Specialization</b>: Robotics & Mechatronics
+
+    <b>Courses</b>: Pattern recognition & image interpretation, Computer vision, Optimization
+
+    <b>Thesis</b>: Vision-based measurement of modal contributions to reconstruct full-field vibrations
     - Noise & Vibration research group
     - Proposed a model-based method to reconstruct structural deformations using Optical Flow
     - Experimental validation using high-speed, high-resolution cameras and a beam-like structure
+
+- layout: left
+  name: "BSc in Industrial Engineering"
+  dates: 09 / 2011 - 07 / 2015
+  qualification: University of Zaragoza (Spain)
+  #quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    <b>Thesis</b>: Computer-vision techniques in global localization of a mobile robot
+    - Vision for Robotics research group, Vienna University of Technology (Austria)
+    - Using 2-D laser data to find current robot pose in a known, static environment
+    - Comparison of feature-matching vs. template-matching algorithms
